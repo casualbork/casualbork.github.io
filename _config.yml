@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: incognitocloud # the main title
 
-tagline: chaotically learning new things # it will display as the sub-title
+tagline: A dork, doing geeky things and attempting to learn through chaos. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Personal blog where I post my learnings and projects that I encounter adventuring in the cloud. 
